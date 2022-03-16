@@ -8,3 +8,4 @@ $npm install chalk
 $npm install chalk-animation
 $node covid.js
 ```
+Sksmmamwmwmma
