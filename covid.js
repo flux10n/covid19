@@ -16,7 +16,7 @@ console.log(chalk
 
                                     https://api.kawalcorona.com
 
-                        }  {bold.yellow     xjusthaxor }                                 
+                        }  {bold.red     xjusthaxor }                                 
       `);
 
 chalkAnimation.rainbow('processing.. %s \n');
